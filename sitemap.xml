@@ -4,6 +4,19 @@
 
   <url>
     <loc>http://localhost:8000/</loc>
+    <lastmod>2024-05-08T15:32:24+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8000/posts/helloworld/</loc>
+    <lastmod>2024-05-08T15:32:24+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8000/posts/</loc>
+    <lastmod>2024-05-08T15:32:24+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
